@@ -34,6 +34,6 @@ Meow: https://scratch.mit.edu/projects/1386787085
 
 Project: PASTE-YOUR-PROJECT-LINK-HERE
 
-One or two sentences on what it does and which custom block, variable, loop, condition and event it uses:
-
+The project is about the little cat walking around a farm meowing.
+How its work you click on the green flag and see amazing things happen
 (write here)
